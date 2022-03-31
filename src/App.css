@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+form{
+  margin:auto;
+  width:46%;
+  text-align: left;
+}
+.displayInline{
+  display: inline;
+}
+body{
+  background-color: beige;
+}
+#emailavailableno{
+  color: red;
+}
